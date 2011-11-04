@@ -1,7 +1,7 @@
 {
 "familly_id": 1,
 "familly_name": "山田",
-"dogs"[
+"dogs":[
   {
     "dog_name":"JIRO",
     "old": 12,
