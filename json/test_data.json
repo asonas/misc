@@ -1,0 +1,20 @@
+{
+"familly_id": 1,
+"familly_name": "山田",
+"dogs"[
+  {
+    "dog_name":"JIRO",
+    "old": 12,
+    "created_at": "1999-10-10"
+  },
+  {
+    "dog_name":"TARO",
+    "old": 9,
+    "created_at": "2002-5-15"
+  },
+  {
+    "dog_name":"JIRO",
+    "old": 3,
+    "created_at": "2008-11-5"
+  }
+]}
